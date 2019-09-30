@@ -15,9 +15,9 @@ import java.util.concurrent.TimeUnit;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.abc.poc.messaging.producer.Consumer;
-import com.abc.poc.messaging.producer.Dispatcher;
-import com.abc.poc.messaging.producer.StreamProducer;
+import com.abc.poc.messaging.Consumer;
+import com.abc.poc.messaging.Dispatcher;
+import com.abc.poc.messaging.StreamProducer;
 import com.abc.poc.messaging.vo.IGlobalTask;
 import com.abc.poc.messaging.vo.TaskAB;
 import com.abc.poc.messaging.vo.TaskCD;
